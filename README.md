@@ -1,3 +1,3 @@
 # Digit-Recognizer
 
-- Using NumPy I'm going to build a Neural Network from scracth that classifies Hand Written Digits. Throught the project you will be able to find the Neural Network Architecture, Forward Progagation, Backward Propagation, Gradient Descent, the Accuracy of the Neural Network and the Predictions of the Hand Written Digits 
+- Using NumPy I’m going to build a Neural Network that classifies Hand Written Digits from the MNIST dataset. The MNIST dataset consists of thousands of handwritten digits and is used for training image processing systems. I will create the Neural Network Architecture, perform Forward Propagation, find the Gradients of the Parameters using Backward Propagation, find the best parameters using Gradient Descent and get the Predictions and Accuracy of the Neural Network.
